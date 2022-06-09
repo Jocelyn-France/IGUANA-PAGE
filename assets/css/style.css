@@ -1,0 +1,126 @@
+    body {
+        margin: 0px;
+    }
+
+    * {
+        padding: 0px;
+        margin: 0px
+    }
+
+    header {
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+
+    header,
+    h1 {
+        margin: 0px;
+        padding: 0.5rem;
+    }
+
+    header,
+    img {
+        width: cover;
+    }
+
+    main {
+        background-color: black;
+        color: white;
+        display: flow-root;
+    }
+
+    main img {
+        width: 300px;
+        float: right;
+        margin-right: 30%;
+        margin-bottom: 300px;
+        margin-top: 2rem;
+    }
+
+    main .p1 {
+        width: 300px;
+        margin-right: 0px;
+        padding: 10px;
+        display: inline-block;
+        margin-left: 20%;
+    }
+
+    section.features {
+        background-color: gray;
+        color: white;
+        margin: 0px;
+        padding: 3em;
+        display: inline-block;
+        width: 99%;
+        text-align: center;
+    }
+
+    section h2 {
+        margin: 0px;
+    }
+
+    main {
+        background-color: black;
+        color: white;
+        display: flow-root;
+    }
+
+    main img {
+
+        width: 300px;
+        float: right;
+        margin: rigth 300px;
+        margin: bottom 30%;
+        margin-top: 1.5;
+    }
+
+    main.p1 {
+
+        width: 300px;
+        margin-right: 0;
+        padding: 10px;
+        display: inline-block;
+        margin-left: 20%;
+    }
+
+    section.features {
+        background-color: gray;
+        color: white;
+        padding: 3em;
+        margin-top: 1;
+    }
+
+    section h2 {
+        margin:auto
+    }
+
+    .icono {
+        width: 33%;
+        display: inline-block;
+    }
+
+    .icono i {
+        display: block;
+        padding: 0.5em;
+    }
+
+    .photos img {
+        width: 33%;
+        float: right;
+        margin: rigth 0px;
+        margin: bottom 30%;
+        margin-top: 1;
+
+    }
+
+    section.photos {
+        background-color: black;
+
+    }
+
+    footer {
+        background-color: gray;
+        text-align: center;
+        padding: 10px;
+    }
